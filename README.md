@@ -1,3 +1,7 @@
+[![make.fun · u-po-pu-say-what-actually-broke-a2c153b5](https://make.fun/badge/u-po-pu-say-what-actually-broke-a2c153b5.svg)](https://make.fun/bounty/u-po-pu-say-what-actually-broke-a2c153b5?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-say-what-actually-broke-a2c153b5)
+[![rank](https://make.fun/badge/u-po-pu-say-what-actually-broke-a2c153b5/calebakinjomo/say-what-broke/rank.svg)](https://make.fun/bounty/u-po-pu-say-what-actually-broke-a2c153b5/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-say-what-actually-broke-a2c153b5)
+[![reward](https://make.fun/badge/u-po-pu-say-what-actually-broke-a2c153b5/calebakinjomo/say-what-broke/reward.svg)](https://make.fun/bounty/u-po-pu-say-what-actually-broke-a2c153b5?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-say-what-actually-broke-a2c153b5)
+
 # Say What Actually Broke
 
 One line of software error copy, at most 200 characters, that tells the user
@@ -28,3 +32,7 @@ and useful.
 Built for the make.fun bounty
 [Say What Actually Broke](https://make.fun/c/u-po-pu-say-what-actually-broke-a2c153b5)
 (`u-po-pu-say-what-actually-broke-a2c153b5`).
+
+## Play on make.fun
+
+Referral code: `hdavhdvz` — play on [make.fun](https://make.fun).
