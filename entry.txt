@@ -1,0 +1,1 @@
+Your file didn't save — the disk is full, the backup failed first, and autosave was on its lunch break. Delete something, then try again.
